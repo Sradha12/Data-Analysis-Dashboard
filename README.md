@@ -5,7 +5,7 @@ The Hotel Manegment wants to create an annual Customer report . So that, the own
 - Data set <a href="https://github.com/Sradha12/Data-Analysis-Dashboard/blob/main/Hotel%20Manegment.xlsb">Hotel manegment data<a/>
 
 # Questions (KPIs)
-Which hotel type (City vs Resort) receives the most total guests (adults + children + babies)?
+Which hotel type (City vs Resort) receives the most total guests (adults + children + babies)?.
 What percentage of bookings were canceled vs. not canceled?
 Which room type ("desired" or "undesired") was most frequently booked per year?
 Which meal plan (BB, FB, HB, etc.) is preferred by the majority of guests?
