@@ -5,28 +5,28 @@ The Hotel Manegment wants to create an annual Customer report . So that, the own
 - Data set <a href="https://github.com/Sradha12/Data-Analysis-Dashboard/blob/main/Hotel%20Manegment.xlsb">Hotel manegment data<a/>
 
 # Questions (KPIs)
-Which hotel type (City vs Resort) receives the most total guests (adults + children + babies)?.
-What percentage of bookings were canceled vs. not canceled?
-Which room type ("desired" or "undesired") was most frequently booked per year?
-Which meal plan (BB, FB, HB, etc.) is preferred by the majority of guests?
-Which client type (Family, Couple, Single) has the highest number of repeated guests?
-Which deposit type (No Deposit, Refundable, Non Refund) is most common among clients?
-What is the average waiting list duration per client type or deposit type?
-How many bookings included children vs. how many had only adults?
-Which quarter sees the highest number of total bookings or guests?
+- Which hotel type (City vs Resort) receives the most total guests (adults + children + babies)?.
+- What percentage of bookings were canceled vs. not canceled?
+- Which room type ("desired" or "undesired") was most frequently booked per year?
+- Which meal plan (BB, FB, HB, etc.) is preferred by the majority of guests?
+- Which client type (Family, Couple, Single) has the highest number of repeated guests?
+- Which deposit type (No Deposit, Refundable, Non Refund) is most common among clients?
+- What is the average waiting list duration per client type or deposit type?
+- How many bookings included children vs. how many had only adults?
+- Which quarter sees the highest number of total bookings or guests?
 
 # Dashboard Interaction
 - Dashboard <a href="https://github.com/Sradha12/Data-Analysis-Dashboard/blob/main/Screenshot%20(25).png"> click here <a/>
 
 # Process
-Step 1: Data Cleaning
+- Step 1: Data Cleaning
 Checked for missing values in key columns and filled or removed as needed.
 Standardized data types (e.g., numeric for guest counts, text for categories).
 Ensured consistent formatting across the dataset.
-Step 2: Data Preparation
+- Step 2: Data Preparation
 Created calculated columns where required (e.g., total guests = adults + children + babies).
 Verified categorical consistency in fields like hotel type, meal plan, and room preference.
-Step 3: Pivot Table Creation
+- Step 3: Pivot Table Creation
 Built PivotTables to analyze:
 Total guests by hotel type.
 Year-wise reservation trends.
@@ -34,11 +34,11 @@ Booking cancellations vs. non-cancellations.
 Preferred room types and meal plans.
 Repeated guest and client type patterns.
 Deposit types and waiting list durations.
-Step 4: Dashboard Development
+- Step 4: Dashboard Development
 Combined all PivotTables into one Excel sheet.
 Inserted appropriate charts (bar, line, pie) for visual representation.
 Applied slicers for dynamic filtering by hotel, year, room type, and more.
-Step 5: Finalization
+- Step 5: Finalization
 Reviewed dashboard for clarity, interactivity, and insightfulness.
 Ensured usability for data exploration and performance analysis.
 
